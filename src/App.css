@@ -1,0 +1,7 @@
+.vendorListHeading {
+  -webkit-print-color-adjust: exact; 
+}
+.App{
+  max-width: 1940px;
+  margin: 0 auto;
+}
